@@ -1,0 +1,12 @@
+C:\Users\itzth\source\repos\READER\READER\bin\Debug\READER.exe.config
+C:\Users\itzth\source\repos\READER\READER\bin\Debug\READER.exe
+C:\Users\itzth\source\repos\READER\READER\bin\Debug\READER.pdb
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.Form1.resources
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.HelpWindow.resources
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.Properties.Resources.resources
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.ReadingWindow.resources
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.exe
+C:\Users\itzth\source\repos\READER\READER\obj\Debug\READER.pdb
